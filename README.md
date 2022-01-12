@@ -10,7 +10,7 @@ Now a days students are facing a problem about admission process of colleges bec
 | Files       | Description    |
 | ----------- | ---------------|
 | Main.py     | Home Page      |
-| searc.py    | Search Page    |
+| search.py   | Search Page    |
 | Payment.py  | Payment Page   |
 | view.py     | View Page      |
 | Contact.py  | Contact us Page|
